@@ -4,17 +4,17 @@ const chalk = require('chalk')
 
 global.botname = "Akuma" 
 global.botLanguage = "default" // 𝗗𝗲𝗳𝗮𝘂𝗹𝘁 || 𝗘𝗻𝗴𝗹𝗶𝘀𝗵 || 𝗛𝗶𝗻𝗱𝗶 || 𝗔𝗿𝗮𝗯𝗶𝗰 \\
-global.author = "𝙋𝙄𝙆𝘼"  
+global.author = "sido"  
 global.packname = "Akuam"  
 global.myweb = "https://github.com/" // You can put any link 
 global.waterMark = "×͜×Akuam" // Your own watermark 
-global.headerText = "Akuma by rayan" // text for header of menu         
-global.DocumentTitle = "MASTER⚔️PIKA" 
+global.headerText = "Akuma by Alqisy" // text for header of menu         
+global.DocumentTitle = "MASTER⚔️sido" 
 
 
-global.ownername = "rayan"   // Owner name //        
-global.ownernumber = ['966547169636'] 
-global.socialm = "𝗜𝗻𝘀𝘁𝗮 : "ra3ya00" // 𝗜𝗻𝘀𝘁𝗮 : || 𝗚𝗶𝘁𝗵𝘂𝗯 : || 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : \\
+global.ownername = "Alqisy"   // Owner name //        
+global.ownernumber = ['967714875038'] 
+global.socialm = "𝗜𝗻𝘀𝘁𝗮 : "mhmdlqysy7462" // 𝗜𝗻𝘀𝘁𝗮 : || 𝗚𝗶𝘁𝗵𝘂𝗯 : || 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : \\
 global.ytname = "YT: Ytname"   // Yt chanel name //
 global.continent = "Asia" // your continent name 
 global.region = "India" // your country name
@@ -22,12 +22,12 @@ global.state = "Assam" // your state name
 global.district = "Dibrugarh" // your district name
 global.timezone = "Asia/Kolkata" // search on google if you don't know the timezone of your country //
 global.instagramId = "3.69_pika" // Your insta ID
-global.email = "akumawaves@gmail.com" // put your email here
+global.email = "mohammedalqisy55@gmail.com" // put your email here
 
 
 //------------ 🌟 Premium Users 🌟-------------\\
-global.premium = ['966547169636']  // available soon
-global.sudo = ['966547169636']  // Co - Owners //
+global.premium = ['967714875038']  // available soon
+global.sudo = ['967714875038']  // Co - Owners //
 
 global.prefa = ['-','🥵','🔥']
 
